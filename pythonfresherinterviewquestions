@@ -51,7 +51,7 @@ ans)def is_palindrome(temp):
     return temp==reverse
 str=input("enter sting:")
 if is_palindrome(str):
-    print("yes the given sting is palindome")
+    print("yes the given string is palindrome")
 else:
     print("no the given string is not palindrome")
 
